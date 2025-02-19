@@ -131,5 +131,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any inquiries or feedback, please contact [yourname@example.com](mailto:selva.p@somaiya.edu).
+For any inquiries or feedback, please contact [DeepCast](mailto:selva.p@somaiya.edu).
 
